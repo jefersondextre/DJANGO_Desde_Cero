@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\Jeferson\Desktop\Proyectos\DJANGO_Desde_Cero\DJANGO-EDTEAM"
+VIRTUAL_ENV="D:\proyectos\DJANGO_Desde_Cero\DJANGO-EDTEAM"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
